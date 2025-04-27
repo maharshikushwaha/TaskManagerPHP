@@ -2,6 +2,8 @@
 
 A modern PHP task manager with JSON-based storage, featuring a glassmorphism UI, smooth animations, and mobile-responsive design. Built to demonstrate clean PHP coding, Tailwind CSS styling, and JavaScript interactivity for a portfolio project.
 
+![Task Manager Screenshot](https://github.com/maharshikushwaha/TaskManagerPHP/blob/main/image.png?raw=true)
+
 ## Features
 - Create tasks with validation to prevent duplicates and empty inputs.
 - Edit tasks via an animated modal with zoom-in effects.
